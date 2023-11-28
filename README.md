@@ -21,6 +21,10 @@ Clone this repository.
 git clone https://github.com/kaderbrl/crud-operation-table-jQuery.git
 ```
 
+## 💻 Live Demo
+
+Check the live demo here 👉 [Demo](https://kaderbrl.github.io/crud-operation-table-jQuery/) 
+
 ## Languages and Tools
 
 <div align="left">
