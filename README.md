@@ -13,6 +13,10 @@
   <li>📌 When input values are empty, the save button is disabled</li>
 </ul>
 
+## 💻 Live Demo
+
+Check the live demo here 👉 [Demo](https://crud-operation-table-kaderbrl.vercel.app/) 
+
 ## 📋 Instruction
 
 Clone this repository.
@@ -20,10 +24,6 @@ Clone this repository.
 ```shell
 git clone https://github.com/kaderbrl/crud-operation-table-jQuery.git
 ```
-
-## 💻 Live Demo
-
-Check the live demo here 👉 [Demo](https://kaderbrl.github.io/crud-operation-table-jQuery/) 
 
 ## Languages and Tools
 
